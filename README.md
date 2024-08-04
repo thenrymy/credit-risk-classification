@@ -19,7 +19,7 @@ Based on the confusion matrix:
 - False Negatives (FN) = 56
 - True Positives (TP) = 563
 
-![confusion matrix]()
+![confusion matrix](https://github.com/thenrymy/credit-risk-classification/blob/2e3048c0f5a1a21c8433a8d54d844a7d69b9f90e/Credit_Risk/Image/confusion_matrix.png)
 
 - The model is highly accurate overall.
 - The precision for high-risk loans (0.85) indicates that when the model predicts a loan as high-risk, it is correct 85% of the time.
